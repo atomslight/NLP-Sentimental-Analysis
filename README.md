@@ -70,3 +70,5 @@ pip install numpy
 
 once installed execute the overall code in any suitable ide of python 
 recommended is IDLE of python default
+
+NOW YOU WILL GET THE OVERALL RESULT IN AN OUTPUT FOLDER
