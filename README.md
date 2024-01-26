@@ -57,7 +57,7 @@ Note:-Make sure to replace 'path/to/your/credentials.json' with the actual path 
 install pip
 now install these libraries using pip
 
-pip install selenium
+pip install selenium \n
 pip install bs4
 pip install google.oauth2.credentials
 pip install google_auth_oauthlib.flow
