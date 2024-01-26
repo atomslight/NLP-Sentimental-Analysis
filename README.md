@@ -49,9 +49,24 @@ def authenticate_gmail_api():
 
     return creds
 
+
+
 Note:-Make sure to replace 'path/to/your/credentials.json' with the actual path to your downloaded credentials file.
 
 :->>install python in your system
 install pip
 now install these libraries using pip
 
+pip install selenium
+pip install bs4
+pip install google.oauth2.credentials
+pip install google_auth_oauthlib.flow
+pip install googleapiclient.discovery
+pip install requests
+pip install google.auth.transport.requests
+pip install re
+pip install matplotlib
+pip install numpy
+
+once installed execute the overall code in any suitable ide of python 
+recommended is IDLE of python default
